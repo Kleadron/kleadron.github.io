@@ -1,41 +1,26 @@
 <!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
+	<script src="resources/scripts/globals.js"></script>
 	<head>
 		<title>Kleadron Software - Welcome!</title>
-		<link rel="stylesheet" type="text/css" href="/resources/style.css" />
-		<?php
-	    	error_reporting(E_ALL ^ E_WARNING); 
-			$debug = False;
-			@include 'infos/currentInfo.php';
-		?>
+		<link rel="stylesheet" type="text/css" href="resources/style.css" />
 	</head>
 	<body>
-		<?php
-			include 'resources/pageparts/header.php';
-		?>
+		<script src="resources/scripts/header.js"></script>
 		
 		<!-- For alerts and important info -->
-    	<?php
-    		include 'resources/pageparts/alert.php';
-    	?>
+    	<script src="resources/scripts/alert.js"></script>
 		
-		
-		<?php
-			include 'resources/pageparts/main-start.html';
-		?>
+		<script src="resources/scripts/sectionstart.js"></script>
 			<h1>Hi</h1>
 			<div id="grey-box">
 				<p>This is my website.<br>What are you doing here :)</p>
 				<p>Nothing much is here yet but check out the directory at the top right!</p>
 				<p>NOTE: for some reason some parts of the site appear suspicious to Microsoft Edge, I'm not sure why and I don't know if telling you that it isn't suspicous would help.</p>
 			</div>
-		<?php
-			include 'resources/pageparts/main-end.html';
-		?>
+		<script src="resources/scripts/sectionend.js"></script>
 		
-		<?php
-			include 'resources/pageparts/footer.html';
-		?>
+		<script src="resources/scripts/footer.js"></script>
 		
 	</body>
 </html>
