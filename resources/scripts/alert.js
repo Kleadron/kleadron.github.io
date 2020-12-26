@@ -1,4 +1,4 @@
-if (message != '') {
+if (alert_message != '') {
 	document.write('<center>\
     <div class="alert-box">\
     	<table class="alert-table" width="100%" cellpadding="0" cellspacing="0">\
@@ -8,10 +8,10 @@ if (message != '') {
     			</td>\
     			<!-- alert i guess? -->\
     			<td align="left">\
-    				<p><font size="-1">' + message);
+    				<p><font size="-1">' + alert_message);
 					
-	if (link != '') {
-		document.write('<br><a href="' + link + '">Learn More</a>');
+	if (alert_link != '') {
+		document.write('<br><a href="' + alert_link + '">Learn More</a>');
 	}
 	
     document.write('</font></p>\

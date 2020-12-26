@@ -7,7 +7,7 @@ document.write('<center>\
     			</td>\
     			<!-- not news i guess? -->\
     			<td>\
-    				<center><p>&#169; Kleadron Software 2019-2020</p></center>\
+    				<center><p>' + site_copyright + '</p></center>\
     			</td>\
     			\
     			<td align="right" width="1">\

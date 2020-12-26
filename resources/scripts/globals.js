@@ -1,6 +1,11 @@
+//global website name
+site_name = 'Kleadron&#39;s Site';
+site_copyright = '&#169; Aidan Hewitt 2019-2020';
+
 //news in header
-news = '';
+news_message = 'New Minecraft 1.2.5 mod!';
+news_link = '';
 
 //alert box
-message = 'This website is being reconstructed. Some parts may not look right.';
-link = '';
+alert_message = '';
+alert_link = '';
