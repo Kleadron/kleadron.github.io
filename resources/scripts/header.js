@@ -1,3 +1,9 @@
+if (news_link != '') {
+	header_text = '<a href="' + news_link + '">' + news_message + '</a>';
+} else {
+	header_text = news_message;
+}
+
 document.write('<center>\
 	<div class="header-div">\
 		<table class="header-table" width="100%" cellpadding="0" cellspacing="0">\
@@ -8,7 +14,7 @@ document.write('<center>\
 				</td>\
 				<!-- news i guess? -->\
 				<td>\
-					<center>' + news_message + '</center>\
+					<center>' + header_text + '</center>\
 				</td>\
 				<!-- Basic navigation -->\
 				<td align="right" width="230">\

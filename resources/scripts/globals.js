@@ -4,7 +4,7 @@ site_copyright = '&#169; Kleadron 2019-2020';
 
 //news in header
 news_message = 'New Minecraft 1.2.5 mod!';
-news_link = '';
+news_link = 'mod_preloader.html';
 
 //alert box
 alert_message = '';
