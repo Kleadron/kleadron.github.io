@@ -4,6 +4,8 @@ if (news_link != '') {
 	header_text = news_message;
 }
 
+//  | <a href="help.html">Help</a>
+
 document.write('<center>\
 	<div class="header-div">\
 		<table class="header-table" width="100%" cellpadding="0" cellspacing="0">\
@@ -18,7 +20,7 @@ document.write('<center>\
 				</td>\
 				<!-- Basic navigation -->\
 				<td align="right" width="230">\
-					<p><a href="directory.html">Directory</a> | <a href="help.html">Help</a> | <a href="about.html">About</a>&nbsp;</p>\
+					<p><a href="directory.html">Directory</a> | <a href="about.html">About</a>&nbsp;</p>\
 				</td>\
 			</tr>\
 		</table>\
