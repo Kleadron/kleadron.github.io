@@ -1,6 +1,6 @@
 //global website name
 site_name = 'Kleadron&#39;s Website';
-site_copyright = 'Copyright &#169; 2019-2021';
+site_copyright = 'Copyright &#169; 2019-2022';
 
 //news in header
 news_message = '';
