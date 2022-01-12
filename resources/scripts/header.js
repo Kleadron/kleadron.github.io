@@ -20,7 +20,7 @@ document.write('<center>\
 				</td>\
 				<!-- Basic navigation -->\
 				<td align="right" width="230">\
-					<p><a href="directory.html">Directory</a> | <a href="about.html">About</a>&nbsp;</p>\
+					<!--<p><a href="directory.html">Directory</a> | <a href="about.html">About</a>&nbsp;</p>-->\
 				</td>\
 			</tr>\
 		</table>\
