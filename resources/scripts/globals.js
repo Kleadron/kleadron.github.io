@@ -7,5 +7,5 @@ news_message = '';
 news_link = '';
 
 //alert box
-alert_message = '';
+alert_message = 'I&#39;m in your walls.'; // 'I&#39;m in your walls.';
 alert_link = '';

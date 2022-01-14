@@ -41,8 +41,6 @@ p {
 	clear: both;
 	margin-bottom: 10px;
 	width: 900px;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .header-logo {
@@ -54,9 +52,7 @@ p {
 	width: 850px;
 	padding: 5px;
 	background-color: white;
-	border:1px solid #999999;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
+	border:1px outset white;
 }
 
 .footer-div {
@@ -69,8 +65,6 @@ p {
 	clear: both;
 	margin-top: 10px;
 	width: 900px;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .alert-box {
@@ -83,8 +77,6 @@ p {
 	background-position: center;
 	border:1px solid red;
 	color: white;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .header-table {
