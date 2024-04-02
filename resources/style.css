@@ -32,6 +32,10 @@ p {
 	color: purple;
 }
 
+#green {
+	color: green;
+}
+
 .header-div {
 	background-color: #FF6100;
 	color: white;
@@ -159,6 +163,14 @@ p {
 	border:1px solid red;
 	margin: 5px 5px 15px 5px;
 }
+
+#green-box {
+	padding: 5px;
+	background-color: white;
+	border:1px solid green;
+	margin: 5px 5px 15px 5px;
+}
+
 
 #bumbus-computer {
 	padding: 5px;
