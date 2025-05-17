@@ -6,11 +6,9 @@ document.write('\
     			<td align="left" width="1">\
     				&nbsp;\
     			</td>\
-    			<!-- not news i guess? -->\
     			<td>\
     				<p style="text-align:center;">' + site_copyright + '</p>\
     			</td>\
-    			\
     			<td align="right" width="1">\
     				&nbsp;\
     			</td>\
