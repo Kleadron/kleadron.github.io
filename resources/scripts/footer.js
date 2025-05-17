@@ -1,6 +1,7 @@
 document.write('\
     <div class="vspacer"></div>\
-    <div class="footer-div">\
+    <div class="footer">\
+        <p style="text-align:left;"> ' + site_copyright + '</p>\
     	<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
     		<tr>\
     			<td align="left">\
