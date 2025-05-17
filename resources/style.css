@@ -12,7 +12,7 @@ p {
 }
 
 .redspec-img {
-    border: 1px solid red;
+	border: 1px solid red;
 }
 
 .header-div {
@@ -29,18 +29,19 @@ p {
 }
 
 .header-logo {
-    text-decoration: none;
-    color: white;
+	text-decoration: none;
+	color: white;
 }
 
 .main-content {
 	align: center;
+	text-align: left;
 	width: 850px;
 	padding: 5px;
 	background-color: white;
 	border: 1px solid #999999;
 	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .footer-div {
@@ -54,7 +55,7 @@ p {
 	margin-top: 10px;
 	width: 900px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .alert-box {
@@ -67,7 +68,7 @@ p {
 	border: 1px solid red;
 	color: white;
 	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .header-table {
@@ -100,7 +101,7 @@ p {
 }
 
 .monospace-font {
-    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+	font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
 }
 
 .grey-box {
@@ -111,8 +112,8 @@ p {
 }
 
 .unlinked-link {
-    background-color: #000000;
-    color: lightgray;
+	background-color: #000000;
+	color: lightgray;
 }
 
 .orange-box {
