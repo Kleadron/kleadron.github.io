@@ -15,14 +15,18 @@ p {
 	border: 1px solid red;
 }
 
+.vspacer {
+	height: 10px;
+}
+
 .header-div {
+	margin: auto;
 	background-color: #FF6100;
 	color: white;
 	background-image: url("images/yellow-orange-gradient.png");
 	background-repeat: no-repeat;
 	border: 1px solid orange;
 	clear: both;
-	margin-bottom: 10px;
 	width: 900px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
 	-moz-box-shadow: 3px 3px 0px #777777;
@@ -34,9 +38,7 @@ p {
 }
 
 .main-content {
-	text-align: left;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	width: 850px;
 	padding: 5px;
 	background-color: white;
@@ -46,6 +48,7 @@ p {
 }
 
 .footer-div {
+	margin: auto;
 	background-color: #0026F9;
 	color: white;
 	background-image: url("images/blue-lightblue-gradient.png");
@@ -53,14 +56,13 @@ p {
 	background-position: right;
 	border: 1px solid #0094FF;
 	clear: both;
-	margin-top: 10px;
 	width: 900px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
 	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .alert-box {
-	margin-bottom: 10px;
+	margin: auto;
 	width: 480px;
 	background-color: #DD0000;
 	background-image: url("images/alert-gradient.png");
