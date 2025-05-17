@@ -11,8 +11,7 @@ p {
 	margin: 5px;
 }
 
-.redspec-img
-{
+.redspec-img {
     border: 1px solid red;
 }
 
@@ -26,7 +25,7 @@ p {
 	margin-bottom: 10px;
 	width: 900px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
-    -moz-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .header-logo {
@@ -35,6 +34,7 @@ p {
 }
 
 .main-content {
+	align: center;
 	width: 850px;
 	padding: 5px;
 	background-color: white;
@@ -58,7 +58,6 @@ p {
 }
 
 .alert-box {
-	
 	margin-bottom: 10px;
 	width: 480px;
 	background-color: #DD0000;
