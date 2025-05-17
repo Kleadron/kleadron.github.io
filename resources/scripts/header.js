@@ -8,7 +8,7 @@ if (news_link != '') {
 
 document.write('<center>\
 	<div class="header-div">\
-		<table class="header-table" width="100%" cellpadding="0" cellspacing="0">\
+		<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
 			<tr>\
 				<!-- Logo -->\
 				<td align="left" width="230">\
@@ -25,5 +25,6 @@ document.write('<center>\
 			</tr>\
 		</table>\
 	</div>\
+	<div class="vspacer"></div>
 </center>\
 ');
