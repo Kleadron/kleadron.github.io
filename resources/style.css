@@ -74,17 +74,7 @@ p {
 	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
-.header-table {
-	color: white;
-	border: none;
-}
-
-.footer-table {
-	color: white;
-	border: none;
-}
-
-.alert-table {
+.table-generic {
 	color: white;
 	border: none;
 }
