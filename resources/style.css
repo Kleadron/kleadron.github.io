@@ -11,6 +11,10 @@ p {
 	margin: 5px;
 }
 
+img {
+	color: gray;
+}
+
 .redspec-img {
 	border: 1px solid red;
 }
@@ -151,26 +155,4 @@ p {
 	background-color: white;
 	border: 1px solid green;
 	margin: 5px 5px 15px 5px;
-}
-
-
-.bumbus-computer {
-	padding: 5px;
-	background-color: white;
-	border: 1px solid #EEEEEE;
-	margin: 5px;
-}
-
-.bumbus-iway {
-	padding: 5px;
-	background-color: white;
-	border: 1px solid #EEEEEE;
-	margin: 5px;
-}
-
-.bumbus-end {
-	padding: 5px;
-	background-color: white;
-	border: 1px solid #EEEEEE;
-	margin: 5px;
 }
