@@ -1,6 +1,7 @@
 document.write('<center>\
+    <div class="vspacer"></div>\
     <div class="footer-div">\
-    	<table class="footer-table" width="100%" cellpadding="0" cellspacing="0">\
+    	<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
     		<tr>\
     			<td align="left" width="1">\
     				&nbsp;\
