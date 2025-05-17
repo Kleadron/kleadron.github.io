@@ -29,6 +29,7 @@ p {
 	border: 1px solid orange;
 	clear: both;
 	width: 900px;
+	height: 35px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
 	-moz-box-shadow: 3px 3px 0px #777777;
 }
@@ -48,7 +49,7 @@ p {
 	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
-.footer-div {
+.footer {
 	margin: auto;
 	background-color: #0026F9;
 	color: white;
@@ -58,6 +59,9 @@ p {
 	border: 1px solid #0094FF;
 	clear: both;
 	width: 900px;
+	height: 35px;
+	padding-left: 5px;
+	padding-right: 5px;
 	-webkit-box-shadow: 3px 3px 0px #777777;
 	-moz-box-shadow: 3px 3px 0px #777777;
 }
