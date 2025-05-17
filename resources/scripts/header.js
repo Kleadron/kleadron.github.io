@@ -6,8 +6,7 @@ if (news_link != '') {
 
 //  | <a href="help.html">Help</a>
 
-document.write('<center>\
-	<div class="header-div">\
+document.write('<div class="header-div">\
 		<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
 			<tr>\
 				<!-- Logo -->\
@@ -25,6 +24,4 @@ document.write('<center>\
 			</tr>\
 		</table>\
 	</div>\
-	<div class="vspacer"></div>
-</center>\
-');
+	<div class="vspacer"></div>');
