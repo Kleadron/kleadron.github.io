@@ -13,7 +13,7 @@ p {
 
 .redspec-img
 {
-    border:1px solid red;
+    border: 1px solid red;
 }
 
 .header-div {
@@ -21,7 +21,7 @@ p {
 	color: white;
 	background-image: url("images/yellow-orange-gradient.png");
 	background-repeat: no-repeat;
-	border:1px solid orange;
+	border: 1px solid orange;
 	clear: both;
 	margin-bottom: 10px;
 	width: 900px;
@@ -38,7 +38,7 @@ p {
 	width: 850px;
 	padding: 5px;
 	background-color: white;
-	border:1px solid #999999;
+	border: 1px solid #999999;
 	-webkit-box-shadow: 3px 3px 0px #777777;
     -moz-box-shadow: 3px 3px 0px #777777;
 }
@@ -49,7 +49,7 @@ p {
 	background-image: url("images/blue-lightblue-gradient.png");
 	background-repeat: no-repeat;
 	background-position: right;
-	border:1px solid #0094FF;
+	border: 1px solid #0094FF;
 	clear: both;
 	margin-top: 10px;
 	width: 900px;
@@ -65,7 +65,7 @@ p {
 	background-image: url("images/alert-gradient.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	border:1px solid red;
+	border: 1px solid red;
 	color: white;
 	-webkit-box-shadow: 3px 3px 0px #777777;
     -moz-box-shadow: 3px 3px 0px #777777;
@@ -89,14 +89,14 @@ p {
 .prebumbus-info {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px;
 }
 
 .bumbus-info {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px;
 }
 
@@ -107,7 +107,7 @@ p {
 .grey-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px 5px 15px 5px;
 }
 
@@ -119,35 +119,35 @@ p {
 .orange-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid orange;
+	border: 1px solid orange;
 	margin: 5px 5px 15px 5px;
 }
 
 .blue-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid blue;
+	border: 1px solid blue;
 	margin: 5px 5px 15px 5px;
 }
 
 .purple-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid purple;
+	border: 1px solid purple;
     margin: 5px 5px 15px 5px;
 }
 
 .red-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid red;
+	border: 1px solid red;
 	margin: 5px 5px 15px 5px;
 }
 
 .green-box {
 	padding: 5px;
 	background-color: white;
-	border:1px solid green;
+	border: 1px solid green;
 	margin: 5px 5px 15px 5px;
 }
 
@@ -155,20 +155,20 @@ p {
 .bumbus-computer {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px;
 }
 
 .bumbus-iway {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px;
 }
 
 .bumbus-end {
 	padding: 5px;
 	background-color: white;
-	border:1px solid #EEEEEE;
+	border: 1px solid #EEEEEE;
 	margin: 5px;
 }
