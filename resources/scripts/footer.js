@@ -8,7 +8,7 @@ document.write('\
     			</td>\
     			<!-- not news i guess? -->\
     			<td>\
-    				<center><p>' + site_copyright + '</p></center>\
+    				<p style="text-align:center;">' + site_copyright + '</p>\
     			</td>\
     			\
     			<td align="right" width="1">\
