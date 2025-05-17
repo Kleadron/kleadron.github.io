@@ -11,29 +11,9 @@ p {
 	margin: 5px;
 }
 
-#redspec-img
+.redspec-img
 {
     border:1px solid red;
-}
-
-#orange {
-	color: orange;
-}
-
-#blue {
-	color: blue;
-}
-
-#red {
-	color: red;
-}
-
-#purple {
-	color: purple;
-}
-
-#green {
-	color: green;
 }
 
 .header-div {
@@ -106,65 +86,65 @@ p {
 	border: none;
 }
 
-#prebumbus-info {
+.prebumbus-info {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
 	margin: 5px;
 }
 
-#bumbus-info {
+.bumbus-info {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
 	margin: 5px;
 }
 
-#monospace-font {
+.monospace-font {
     font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
 }
 
-#grey-box {
+.grey-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
 	margin: 5px 5px 15px 5px;
 }
 
-#unlinked-link {
+.unlinked-link {
     background-color: #000000;
     color: lightgray;
 }
 
-#orange-box {
+.orange-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid orange;
 	margin: 5px 5px 15px 5px;
 }
 
-#blue-box {
+.blue-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid blue;
 	margin: 5px 5px 15px 5px;
 }
 
-#purple-box {
+.purple-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid purple;
     margin: 5px 5px 15px 5px;
 }
 
-#red-box {
+.red-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid red;
 	margin: 5px 5px 15px 5px;
 }
 
-#green-box {
+.green-box {
 	padding: 5px;
 	background-color: white;
 	border:1px solid green;
@@ -172,21 +152,21 @@ p {
 }
 
 
-#bumbus-computer {
+.bumbus-computer {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
 	margin: 5px;
 }
 
-#bumbus-iway {
+.bumbus-iway {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
 	margin: 5px;
 }
 
-#bumbus-end {
+.bumbus-end {
 	padding: 5px;
 	background-color: white;
 	border:1px solid #EEEEEE;
