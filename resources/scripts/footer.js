@@ -1,4 +1,4 @@
-document.write('<center>\
+document.write('\
     <div class="vspacer"></div>\
     <div class="footer-div">\
     	<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
@@ -16,6 +16,4 @@ document.write('<center>\
     			</td>\
     		</tr>\
     	</table>\
-    </div>\
-</center>\
-');
+    </div>');
