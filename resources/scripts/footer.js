@@ -1,14 +1,13 @@
 document.write('\
     <div class="vspacer"></div>\
     <div class="footer">\
-        <p style="text-align:left;"> ' + site_copyright + '</p>\
     	<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
     		<tr>\
     			<td align="left">\
-    				<p style="text-align:left;"> ' + site_copyright + '</p>\
+    				<em><p>' + site_copyright + '</p></em>\
     			</td>\
     			<td align="right">\
-    				<a href="https://validator.w3.org/markup/check?uri=referer"><img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"> </a>\
+    				<a target="_blank" href="https://validator.w3.org/check?uri=https%3A%2F%2Fkleadron.net%2F"><img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>\
     			</td>\
     		</tr>\
     	</table>\
