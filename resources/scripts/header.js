@@ -8,6 +8,6 @@ if (news_link != '') {
 
 document.write('\
 	<div class="header-div">\
-		<h2><a class="header-logo" href="index.html">' + site_name + '</a><font size="2"> - the web realm of the cube</font></h2>\
+		<h2><a class="header-logo" href="index.html">' + site_name + '</a><font size="2"> - web realm of the cube</font></h2>\
 	</div>\
 	<div class="vspacer"></div>');
