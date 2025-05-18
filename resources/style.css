@@ -56,6 +56,10 @@ img {
 	border: 2px solid orange;
 	clear: both;
 	/*height: 35px;*/
+	
+	-webkit-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
+	box-shadow: 3px 3px 0px #777777;
 }
 
 .headerlogo {
@@ -82,6 +86,10 @@ img {
 	border: 2px solid #0094FF;
 	clear: both;
 	/*height: 35px;*/
+	
+	-webkit-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
+	box-shadow: 3px 3px 0px #777777;
 }
 
 .alert-box {
