@@ -7,7 +7,7 @@ if (news_link != '') {
 //  | <a href="help.html">Help</a>
 
 document.write('\
-	<div class="header frameshadow">\
+	<div class="header">\
 	    <table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
     		<tr>\
     			<td align="left">\

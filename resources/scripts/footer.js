@@ -1,6 +1,6 @@
 document.write('\
     <div class="vspacer-footer"></div>\
-    <div class="footer frameshadow">\
+    <div class="footer">\
     	<table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
     		<tr>\
     			<td align="left">\
