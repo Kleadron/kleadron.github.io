@@ -7,7 +7,7 @@ if (news_link != '') {
 //  | <a href="help.html">Help</a>
 
 document.write('\
-	<div class="header-div">\
-		<h2><a class="header-logo" href="index.html">' + site_name + '</a><font size="2"> - web realm of the cube</font></h2>\
+	<div class="header frameshadow">\
+		<h2><a class="headerlogo" href="index.html">' + site_name + '</a><font size="2"> - web realm of the cube</font></h2>\
 	</div>\
 	<div class="vspacer"></div>');

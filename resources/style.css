@@ -24,54 +24,61 @@ img {
 	height: 10px;
 }
 
-.header-div {
+.vspacer-footer {
 	margin: auto;
+	height: 5px;
+}
+
+.frameshadow {
+	-webkit-box-shadow: 3px 3px 0px #777777;
+	-moz-box-shadow: 3px 3px 0px #777777;
+	box-shadow: 3px 3px 0px #777777;
+}
+
+.textshadow {
+	text-shadow: 1px 1px 0px #222222;
+}
+
+.header {
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 2px 20px;
+	
 	background-color: #FF6100;
 	color: white;
 	background-image: url("images/header-gradient-new.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed; 
 	background-size: 100% 100%;
-	border: 1px solid orange;
+	border: 2px solid orange;
 	clear: both;
-	width: 850px;
 	/*height: 35px;*/
-	padding: 2px 25px;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
-.header-logo {
+.headerlogo {
 	text-decoration: none;
 	color: white;
 }
 
 .main-content {
-	margin: auto;
-	width: 850px;
-	padding: 2px 10px;
-	background-color: white;
-	border: 1px solid #999999;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-	-moz-box-shadow: 3px 3px 0px #777777;
+	margin-left: 25px;
+	margin-right: 25px;
 }
 
 .footer {
-	margin: auto;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 2px 20px;
+	
 	background-color: #0026F9;
 	color: white;
 	background-image: url("images/footer-gradient-new.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed; 
 	background-size: 100% 100%;
-	border: 1px solid #0094FF;
+	border: 2px solid #0094FF;
 	clear: both;
-	width: 850px;
 	/*height: 35px;*/
-	padding: 2px 25px;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-	-moz-box-shadow: 3px 3px 0px #777777;
-	/*display: inline;*/
 }
 
 .alert-box {
@@ -83,8 +90,6 @@ img {
 	background-position: center;
 	border: 1px solid red;
 	color: white;
-	-webkit-box-shadow: 3px 3px 0px #777777;
-	-moz-box-shadow: 3px 3px 0px #777777;
 }
 
 .table-generic {
@@ -113,7 +118,7 @@ img {
 .grey-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid #999999;
+	border: 2px solid #999999;
 	margin: 5px 5px 15px 5px;
 }
 
@@ -125,34 +130,34 @@ img {
 .orange-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid orange;
+	border: 2px solid orange;
 	margin: 5px 5px 15px 5px;
 }
 
 .blue-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid blue;
+	border: 2px solid blue;
 	margin: 5px 5px 15px 5px;
 }
 
 .purple-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid purple;
+	border: 2px solid purple;
     margin: 5px 5px 15px 5px;
 }
 
 .red-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid red;
+	border: 2px solid red;
 	margin: 5px 5px 15px 5px;
 }
 
 .green-box {
 	padding: 5px;
 	background-color: white;
-	border: 1px solid green;
+	border: 2px solid green;
 	margin: 5px 5px 15px 5px;
 }
