@@ -8,6 +8,15 @@ if (news_link != '') {
 
 document.write('\
 	<div class="header frameshadow">\
-		<h2><a class="headerlogo" href="index.html">' + site_name + '</a><font size="2"> - web realm of the cube</font></h2>\
+	    <table class="table-generic" width="100%" cellpadding="0" cellspacing="0">\
+    		<tr>\
+    			<td align="left">\
+    				<h2><a class="headerlogo" href="index.html">' + site_name + '</a><font size="2"> - web realm of the cube</font></h2>\
+    			</td>\
+    			<td align="right">\
+    				<p><a href="index.html">index</a> | <a href="about.html">about</a></p>\
+    			</td>\
+    		</tr>\
+    	</table>\
 	</div>\
 	<div class="vspacer"></div>');
